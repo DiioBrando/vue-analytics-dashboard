@@ -17,7 +17,6 @@ export default defineConfig(({mode}) => {
            }),
        ],
        server: {
-           port: 3000,
            proxy: {
                "/api": {
                    target: env.VITE_DATABASE_API,
