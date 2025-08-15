@@ -13,6 +13,7 @@
     "@tanstack/vue-query": "^5.85.3",
     "axios": "^1.11.0",
     "chart.js": "^4.5.0",
+    "date-fns": "^4.1.0",
     "element-plus": "^2.10.7",
     "primeicons": "^7.0.0",
     "primevue": "^4.3.7",
